@@ -1,0 +1,13 @@
+{
+    "name": "sergey/rpc",
+    "description": "Simple RPC client",
+    "type": "libraly",
+    "license": "MIT",
+    "authors": [
+        {
+            "name": "Sergey",
+            "email": "gavrilenko.php@gmail.com"
+        }
+    ],
+    "require": {}
+}
