@@ -1,5 +1,5 @@
 <?php
-namespace rpc;
+namespace Rpc;
 
 class SimpleXmlRpcClient
 {
